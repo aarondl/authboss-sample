@@ -13,8 +13,8 @@ This is a simple blogging engine with a few basic features:
 
 Uses the following default libraries:
 
-- https://github.com/volatiletech/authboss-renderer
-- https://github.com/volatiletech/authboss-clientstate
+- https://github.com/aarondl/authboss-renderer
+- https://github.com/aarondl/authboss-clientstate
 
 # Disclaimer
 

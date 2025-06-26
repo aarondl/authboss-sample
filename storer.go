@@ -6,10 +6,10 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/pkg/errors"
-	"github.com/volatiletech/authboss/v3"
-	aboauth "github.com/volatiletech/authboss/v3/oauth2"
-	"github.com/volatiletech/authboss/v3/otp/twofactor/sms2fa"
-	"github.com/volatiletech/authboss/v3/otp/twofactor/totp2fa"
+	"github.com/aarondl/authboss/v3"
+	aboauth "github.com/aarondl/authboss/v3/oauth2"
+	"github.com/aarondl/authboss/v3/otp/twofactor/sms2fa"
+	"github.com/aarondl/authboss/v3/otp/twofactor/totp2fa"
 )
 
 // User struct for authboss
